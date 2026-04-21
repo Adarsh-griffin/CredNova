@@ -239,8 +239,8 @@ VITE_CLERK_PUBLISHABLE_KEY=your_key
 ### 1. Clone Repositories
 
 ```
-https://github.com/Aditya9207/CredNova-Frontend.git
-https://github.com/Aditya9207/CredNova-Backend.git
+https://github.com/Adarsh-griffin/CredNova-fe.git
+https://github.com/Adarsh-griffin/CredNova-be.git
 ```
 
 ---
@@ -248,7 +248,7 @@ https://github.com/Aditya9207/CredNova-Backend.git
 ### 2. Frontend
 
 ```
-cd CredNova-Frontend
+cd CredNova-fe
 npm install
 npm run dev
 ```
@@ -258,7 +258,7 @@ npm run dev
 ### 3. Backend
 
 ```
-cd CredNova-Backend
+cd CredNova-be
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
@@ -303,11 +303,11 @@ crednova-backend/
 
 **Aditya Jamdade**
 
-📧 [jamdadeaditya05@gmail.com](mailto:jamdadeaditya05@gmail.com)
+📧 [jamdadeaditya05@gmail.com](mailto:adarshdhawale267@gmail.com)
 
-💼 [LinkedIn](www.linkedin.com/in/adityajamdade)  
+💼 [LinkedIn](https://www.linkedin.com/in/adarsh-dhawale/)  
 
-🐙 [GitHub](https://github.com/Aditya9207)
+🐙 [GitHub](https://github.com/Adarsh-griffin)
 
 ---
 
